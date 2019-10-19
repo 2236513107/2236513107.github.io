@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Blog</title>
+    <link>http://2236513107.github.io/</link>
+    <description>Recent content on My New Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 22:45:31 +0800</lastBuildDate>
+    
+	<atom:link href="http://2236513107.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://2236513107.github.io/post/first/</link>
+      <pubDate>Thu, 17 Oct 2019 22:45:31 +0800</pubDate>
+      
+      <guid>http://2236513107.github.io/post/first/</guid>
+      <description>This is my first hugo task.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://2236513107.github.io/about/</link>
+      <pubDate>Thu, 17 Oct 2019 22:42:57 +0800</pubDate>
+      
+      <guid>http://2236513107.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
